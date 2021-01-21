@@ -5,5 +5,11 @@
   "connectors": [
     "okta",
     "http"
+  ],
+  "links": [
+    {
+      "title": "Setup Documentation",
+      "destination": "https://github.com/jhickmanit/onfido-create-applicant/blob/master/readme.md"
+    }
   ]
 }
